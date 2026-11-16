@@ -1,0 +1,40 @@
+{
+ "questions": [
+  {
+   "question": "How much does a wedding DJ cost in NYC?",
+   "answer": "Wedding DJs in NYC start at a median of $2,370 for a wedding.",
+   "url": "https://index.therunup.ai/cost/wedding-dj/nyc/",
+   "price_stats_usd": {
+    "vendors": 26,
+    "median": 2370
+   },
+   "category": "djs",
+   "area": "nyc",
+   "unit": "event"
+  },
+  {
+   "question": "How much does a wedding photographer cost in the New York area?",
+   "answer": "Wedding photographers in the New York area start at a median of $3,500.",
+   "url": "https://index.therunup.ai/cost/wedding-photographer/",
+   "price_stats_usd": {
+    "vendors": 176,
+    "median": 3500
+   },
+   "category": "photographers",
+   "area": null,
+   "unit": "event"
+  },
+  {
+   "question": "How much does an event photographer cost per hour in the New York area?",
+   "answer": "Photographers who publish a price per hour start at a median of $400 per hour.",
+   "url": "https://index.therunup.ai/cost/event-photographer-per-hour/",
+   "price_stats_usd": {
+    "vendors": 23,
+    "median": 400
+   },
+   "category": "photographers",
+   "area": null,
+   "unit": "hour"
+  }
+ ]
+}

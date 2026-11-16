@@ -1,0 +1,959 @@
+[
+ {
+  "name": "448 Studio",
+  "url": "https://index.therunup.ai/vendors/448-studio/",
+  "website": "https://www.448studio.com/",
+  "category": "photographers",
+  "areas": [
+   "bronx",
+   "brooklyn",
+   "central-jersey",
+   "long-island",
+   "manhattan",
+   "north-jersey",
+   "queens",
+   "staten-island",
+   "westchester"
+  ],
+  "price_from_usd": 2500.0,
+  "score": 38,
+  "checked": "2026-11-13",
+  "facts": {
+   "areas_served": {
+    "value": [
+     "New York City",
+     "nationwide",
+     "worldwide"
+    ],
+    "source": "https://www.448studio.com/",
+    "checked": "2026-11-13"
+   },
+   "contact_methods": {
+    "value": [
+     "form",
+     "email",
+     "phone"
+    ],
+    "source": "https://www.448studio.com/contact",
+    "checked": "2026-11-13"
+   },
+   "delivery_time": {
+    "value": "Sneak peek within a few weeks; final photos, online gallery and album typically up to 8 weeks.",
+    "source": "https://www.448studio.com/pricingfaq",
+    "checked": "2026-11-13"
+   },
+   "deposit": {
+    "value": "50% retainer fee required at booking to reserve the date, paid via Zelle.",
+    "source": "https://www.448studio.com/pricingfaq",
+    "checked": "2026-11-13"
+   },
+   "does_private_events": {
+    "value": true,
+    "source": "https://www.448studio.com/pricingfaq",
+    "checked": "2026-11-13"
+   },
+   "event_types": {
+    "value": [
+     "weddings"
+    ],
+    "source": "https://www.448studio.com/pricingfaq",
+    "checked": "2026-11-13"
+   },
+   "quote_request_form": {
+    "value": true,
+    "source": "https://www.448studio.com/contact",
+    "checked": "2026-11-13"
+   },
+   "services": {
+    "value": [
+     "wedding photography",
+     "wedding videography",
+     "combined photo and video coverage",
+     "engagement photography"
+    ],
+    "source": "https://www.448studio.com/pricingfaq",
+    "checked": "2026-11-13"
+   },
+   "starting_price": {
+    "value": {
+     "amount": 2500,
+     "per": "event",
+     "note": "wedding photography or videography coverage"
+    },
+    "source": "https://www.448studio.com/pricingfaq",
+    "checked": "2026-11-13"
+   }
+  }
+ },
+ {
+  "name": "A Day of Bliss - Best Professional Wedding Photographers",
+  "url": "https://index.therunup.ai/vendors/a-day-of-bliss-best-professional-wedding-photographers/",
+  "website": "https://adayofbliss.com/",
+  "category": "photographers",
+  "areas": [
+   "bronx",
+   "brooklyn",
+   "central-jersey",
+   "long-island",
+   "manhattan",
+   "north-jersey",
+   "queens",
+   "staten-island",
+   "westchester"
+  ],
+  "price_from_usd": 5450.0,
+  "score": 31,
+  "checked": "2026-11-13",
+  "facts": {
+   "areas_served": {
+    "value": [
+     "New York City",
+     "worldwide"
+    ],
+    "source": "https://adayofbliss.com/pricing-guide-1",
+    "checked": "2026-11-13"
+   },
+   "contact_methods": {
+    "value": [
+     "email",
+     "phone"
+    ],
+    "source": "https://adayofbliss.com/pricing-guide-1",
+    "checked": "2026-11-13"
+   },
+   "does_private_events": {
+    "value": true,
+    "source": "https://adayofbliss.com/services",
+    "checked": "2026-11-13"
+   },
+   "event_types": {
+    "value": [
+     "weddings"
+    ],
+    "source": "https://adayofbliss.com/services",
+    "checked": "2026-11-13"
+   },
+   "second_shooter": {
+    "value": true,
+    "source": "https://adayofbliss.com/pricing-guide-1",
+    "checked": "2026-11-13"
+   },
+   "services": {
+    "value": [
+     "wedding photography",
+     "destination wedding photography",
+     "heirloom albums and prints"
+    ],
+    "source": "https://adayofbliss.com/services",
+    "checked": "2026-11-13"
+   },
+   "starting_price": {
+    "value": {
+     "amount": 5450,
+     "per": "event",
+     "note": "Silver wedding collection, lowest of three wedding packages; all packages include two photographers and local travel (2023 Wedding Investment Guide)"
+    },
+    "source": "https://adayofbliss.com/pricing-guide-1",
+    "checked": "2026-11-13"
+   }
+  }
+ },
+ {
+  "name": "AGD Festive Photography",
+  "url": "https://index.therunup.ai/vendors/agd-festive-photography/",
+  "website": "https://agdphotography.com/",
+  "category": "photographers",
+  "areas": [
+   "central-jersey",
+   "north-jersey"
+  ],
+  "price_from_usd": 800.0,
+  "score": 38,
+  "checked": "2026-11-13",
+  "facts": {
+   "areas_served": {
+    "value": [
+     "Northern New Jersey"
+    ],
+    "source": "https://agdphotography.com/wedding-photography",
+    "checked": "2026-11-13"
+   },
+   "contact_methods": {
+    "value": [
+     "form"
+    ],
+    "source": "https://agdphotography.com/pricing",
+    "checked": "2026-11-13"
+   },
+   "does_private_events": {
+    "value": true,
+    "source": "https://agdphotography.com/pricing",
+    "checked": "2026-11-13"
+   },
+   "event_types": {
+    "value": [
+     "weddings",
+     "bar-bat-mitzvahs",
+     "corporate",
+     "other-private"
+    ],
+    "source": "https://agdphotography.com/hanover-manor-wedding-event-photographer",
+    "checked": "2026-11-13"
+   },
+   "hours_included": {
+    "value": 4,
+    "source": "https://agdphotography.com/pricing",
+    "checked": "2026-11-13"
+   },
+   "quote_request_form": {
+    "value": true,
+    "source": "https://agdphotography.com/pricing",
+    "checked": "2026-11-13"
+   },
+   "services": {
+    "value": [
+     "wedding photography",
+     "wedding videography",
+     "event photography",
+     "photo and video hybrid coverage"
+    ],
+    "source": "https://agdphotography.com/",
+    "checked": "2026-11-13"
+   },
+   "starting_price": {
+    "value": {
+     "amount": 800,
+     "per": "event",
+     "note": "The Vows Collection, starts at; one wedding photographer, 4 hours of coverage; wedding video-only Solitaire Film from $650 and event collections from $450 are priced lower and are not the main service"
+    },
+    "source": "https://agdphotography.com/pricing",
+    "checked": "2026-11-13"
+   }
+  }
+ },
+ {
+  "name": "4Eyes Photography",
+  "url": "https://index.therunup.ai/vendors/4eyes-photography/",
+  "website": "https://www.4eyesphotography.com",
+  "category": "photographers",
+  "areas": [
+   "bronx",
+   "brooklyn",
+   "central-jersey",
+   "long-island",
+   "manhattan",
+   "north-jersey",
+   "queens",
+   "staten-island",
+   "westchester"
+  ],
+  "price_from_usd": null,
+  "score": 19,
+  "checked": "2026-11-13",
+  "facts": {
+   "areas_served": {
+    "value": [
+     "New York City",
+     "Hudson Valley",
+     "worldwide destination weddings"
+    ],
+    "source": "https://www.4eyesphotography.com",
+    "checked": "2026-11-13"
+   },
+   "contact_methods": {
+    "value": [
+     "form",
+     "email",
+     "phone",
+     "text"
+    ],
+    "source": "https://www.4eyesphotography.com/our-story",
+    "checked": "2026-11-13"
+   },
+   "does_private_events": {
+    "value": true,
+    "source": "https://www.4eyesphotography.com",
+    "checked": "2026-11-13"
+   },
+   "event_types": {
+    "value": [
+     "weddings",
+     "corporate"
+    ],
+    "source": "https://www.4eyesphotography.com/our-story",
+    "checked": "2026-11-13"
+   },
+   "quote_request_form": {
+    "value": true,
+    "source": "https://www.4eyesphotography.com/rates-contact",
+    "checked": "2026-11-13"
+   },
+   "second_shooter": {
+    "value": true,
+    "source": "https://www.4eyesphotography.com/our-story",
+    "checked": "2026-11-13"
+   },
+   "services": {
+    "value": [
+     "wedding photography",
+     "event and gala photography",
+     "engagement shoots",
+     "albums",
+     "team photographers"
+    ],
+    "source": "https://www.4eyesphotography.com",
+    "checked": "2026-11-13"
+   }
+  }
+ },
+ {
+  "name": "A Night To Remember Entertainment",
+  "url": "https://index.therunup.ai/vendors/a-night-to-remember-entertainment/",
+  "website": "https://www.anighttorememberentertainment.com/",
+  "category": "djs",
+  "areas": [
+   "long-island"
+  ],
+  "price_from_usd": 2000.0,
+  "score": 39,
+  "checked": "2026-11-13",
+  "facts": {
+   "areas_served": {
+    "value": [
+     "Long Island"
+    ],
+    "source": "https://www.anighttorememberentertainment.com/",
+    "checked": "2026-11-13"
+   },
+   "contact_methods": {
+    "value": [
+     "form",
+     "email",
+     "phone"
+    ],
+    "source": "https://www.anighttorememberentertainment.com/",
+    "checked": "2026-11-13"
+   },
+   "does_private_events": {
+    "value": true,
+    "source": "https://www.anighttorememberentertainment.com/",
+    "checked": "2026-11-13"
+   },
+   "equipment_included": {
+    "value": "All white sound system with lit DJ front board and two dance light fixtures in every wedding package",
+    "source": "https://www.anighttorememberentertainment.com/",
+    "checked": "2026-11-13"
+   },
+   "event_types": {
+    "value": [
+     "weddings"
+    ],
+    "source": "https://www.anighttorememberentertainment.com/",
+    "checked": "2026-11-13"
+   },
+   "mc_services": {
+    "value": true,
+    "source": "https://www.anighttorememberentertainment.com/",
+    "checked": "2026-11-13"
+   },
+   "quote_request_form": {
+    "value": true,
+    "source": "https://www.anighttorememberentertainment.com/",
+    "checked": "2026-11-13"
+   },
+   "services": {
+    "value": [
+     "DJs",
+     "MCs",
+     "musicians",
+     "photo booths"
+    ],
+    "source": "https://www.anighttorememberentertainment.com/",
+    "checked": "2026-11-13"
+   },
+   "starting_price": {
+    "value": {
+     "amount": 2000,
+     "per": "event",
+     "note": "Party Starter Wedding Package: 5 hours, DJ, MC, sound system, two dance lights"
+    },
+    "source": "https://www.anighttorememberentertainment.com/",
+    "checked": "2026-11-13"
+   }
+  }
+ },
+ {
+  "name": "Abby's Photo Booth Media",
+  "url": "https://index.therunup.ai/vendors/abby-s-photo-booth-media/",
+  "website": "https://djcalderonentertainment.com/",
+  "category": "djs",
+  "areas": [
+   "central-jersey",
+   "north-jersey"
+  ],
+  "price_from_usd": 450.0,
+  "score": 37,
+  "checked": "2026-11-13",
+  "facts": {
+   "areas_served": {
+    "value": [
+     "New Jersey"
+    ],
+    "source": "https://djcalderonentertainment.com/",
+    "checked": "2026-11-13"
+   },
+   "contact_methods": {
+    "value": [
+     "form",
+     "phone"
+    ],
+    "source": "https://djcalderonentertainment.com/",
+    "checked": "2026-11-13"
+   },
+   "does_private_events": {
+    "value": true,
+    "source": "https://djcalderonentertainment.com/",
+    "checked": "2026-11-13"
+   },
+   "event_types": {
+    "value": [
+     "weddings",
+     "birthdays",
+     "corporate",
+     "other-private"
+    ],
+    "source": "https://djcalderonentertainment.com/",
+    "checked": "2026-11-13"
+   },
+   "packages": {
+    "value": [
+     {
+      "name": "Photo Booth Deals",
+      "price": 450,
+      "per": "event",
+      "includes": "photo booth, starting price"
+     }
+    ],
+    "source": "https://djcalderonentertainment.com/",
+    "checked": "2026-11-13"
+   },
+   "quote_request_form": {
+    "value": true,
+    "source": "https://djcalderonentertainment.com/",
+    "checked": "2026-11-13"
+   },
+   "services": {
+    "value": [
+     "DJ services",
+     "photo booth",
+     "360 photo booth"
+    ],
+    "source": "https://djcalderonentertainment.com/",
+    "checked": "2026-11-13"
+   }
+  }
+ },
+ {
+  "name": "Absolute Entertainment",
+  "url": "https://index.therunup.ai/vendors/absolute-entertainment/",
+  "website": "https://absolutedjs.com/",
+  "category": "djs",
+  "areas": [
+   "long-island"
+  ],
+  "price_from_usd": 2000.0,
+  "score": 33,
+  "checked": "2026-11-13",
+  "facts": {
+   "areas_served": {
+    "value": [
+     "New York",
+     "Central Florida",
+     "South Florida"
+    ],
+    "source": "https://absolutedjs.com/",
+    "checked": "2026-11-13"
+   },
+   "contact_methods": {
+    "value": [
+     "phone",
+     "email"
+    ],
+    "source": "https://www.absolutedjs.com/services-rates",
+    "checked": "2026-11-13"
+   },
+   "does_private_events": {
+    "value": true,
+    "source": "https://absolutedjs.com/",
+    "checked": "2026-11-13"
+   },
+   "equipment_included": {
+    "value": "Essentials Package: Black DJ Booth & Basic Light Package w/ Two Dazzling Light Effects",
+    "source": "https://www.absolutedjs.com/dj-services/wedding",
+    "checked": "2026-11-13"
+   },
+   "event_types": {
+    "value": [
+     "weddings",
+     "birthdays",
+     "bar-bat-mitzvahs",
+     "corporate"
+    ],
+    "source": "https://www.absolutedjs.com/services-rates",
+    "checked": "2026-11-13"
+   },
+   "mc_services": {
+    "value": true,
+    "source": "https://www.absolutedjs.com/dj-services/family-corporate",
+    "checked": "2026-11-13"
+   },
+   "services": {
+    "value": [
+     "DJ services",
+     "musicians",
+     "lighting and decor",
+     "photo booth",
+     "video"
+    ],
+    "source": "https://www.absolutedjs.com/services-rates",
+    "checked": "2026-11-13"
+   },
+   "starting_price": {
+    "value": {
+     "amount": 2000,
+     "per": "event",
+     "note": "One Man DJ Only option of the Essentials Package: One Hour Cocktail & Four Hour Reception; full Essentials Package with DJ & MC is $2,850"
+    },
+    "source": "https://www.absolutedjs.com/dj-services/wedding",
+    "checked": "2026-11-13"
+   }
+  }
+ },
+ {
+  "name": "107 Productions",
+  "url": "https://index.therunup.ai/vendors/107-productions/",
+  "website": "https://107productions.net/",
+  "category": "djs",
+  "areas": [
+   "bronx",
+   "brooklyn",
+   "central-jersey",
+   "long-island",
+   "manhattan",
+   "north-jersey",
+   "queens",
+   "staten-island",
+   "westchester"
+  ],
+  "price_from_usd": null,
+  "score": 19,
+  "checked": "2026-11-13",
+  "facts": {
+   "areas_served": {
+    "value": [
+     "New Jersey",
+     "Tri-State area"
+    ],
+    "source": "https://107productions.net/find-the-best-wedding-bands-in-new-jersey/",
+    "checked": "2026-11-13"
+   },
+   "contact_methods": {
+    "value": [
+     "email",
+     "phone",
+     "form"
+    ],
+    "source": "https://107productions.net/contact/",
+    "checked": "2026-11-13"
+   },
+   "does_private_events": {
+    "value": true,
+    "source": "https://107productions.net/",
+    "checked": "2026-11-13"
+   },
+   "event_types": {
+    "value": [
+     "weddings",
+     "corporate"
+    ],
+    "source": "https://107productions.net/",
+    "checked": "2026-11-13"
+   },
+   "quote_request_form": {
+    "value": true,
+    "source": "https://107productions.net/contact/",
+    "checked": "2026-11-13"
+   },
+   "services": {
+    "value": [
+     "live band booking",
+     "DJs",
+     "ceremony and cocktail musicians",
+     "photo booths",
+     "up-lighting"
+    ],
+    "source": "https://107productions.net/weddings/",
+    "checked": "2026-11-13"
+   }
+  }
+ },
+ {
+  "name": "55 Fulton Flower",
+  "url": "https://index.therunup.ai/vendors/55-fulton-flower/",
+  "website": "https://gardenia.nyc/",
+  "category": "florists",
+  "areas": [
+   "manhattan"
+  ],
+  "price_from_usd": 25.0,
+  "score": 39,
+  "checked": "2026-11-13",
+  "facts": {
+   "areas_served": {
+    "value": [
+     "Financial District, Manhattan"
+    ],
+    "source": "https://gardenia.nyc/",
+    "checked": "2026-11-08"
+   },
+   "cancellation_policy": {
+    "value": "All sales are final; no refunds on perishable items, though in-store credit may be available if a quality issue cannot be resolved.",
+    "source": "https://gardenia.nyc/policies/terms-of-service",
+    "checked": "2026-11-13"
+   },
+   "contact_methods": {
+    "value": [
+     "phone",
+     "email"
+    ],
+    "source": "https://gardenia.nyc/policies/contact-information",
+    "checked": "2026-11-13"
+   },
+   "delivery_setup": {
+    "value": true,
+    "source": "https://gardenia.nyc/collections/weddings",
+    "checked": "2026-11-13"
+   },
+   "does_private_events": {
+    "value": true,
+    "source": "https://gardenia.nyc/collections/weddings",
+    "checked": "2026-11-13"
+   },
+   "event_types": {
+    "value": [
+     "weddings"
+    ],
+    "source": "https://gardenia.nyc/collections/weddings",
+    "checked": "2026-11-13"
+   },
+   "quote_request_form": {
+    "value": true,
+    "source": "https://gardenia.nyc/pages/contact-us",
+    "checked": "2026-11-13"
+   },
+   "services": {
+    "value": [
+     "pre-arranged flowers",
+     "custom arrangements",
+     "custom orders by phone"
+    ],
+    "source": "https://gardenia.nyc/",
+    "checked": "2026-11-08"
+   },
+   "starting_price": {
+    "value": {
+     "amount": 25,
+     "per": "item",
+     "note": "White Calalily Boutonniere, lowest priced item in wedding collection"
+    },
+    "source": "https://gardenia.nyc/collections/weddings",
+    "checked": "2026-11-13"
+   }
+  }
+ },
+ {
+  "name": "Adore Floral Inc.",
+  "url": "https://index.therunup.ai/vendors/adore-floral/",
+  "website": "https://adorenyc.com/",
+  "category": "florists",
+  "areas": [
+   "brooklyn",
+   "manhattan",
+   "queens"
+  ],
+  "price_from_usd": 2500.0,
+  "score": 39,
+  "checked": "2026-11-13",
+  "facts": {
+   "areas_served": {
+    "value": [
+     "Manhattan",
+     "Brooklyn",
+     "Queens"
+    ],
+    "source": "https://adorenyc.com/pages/wedding-events",
+    "checked": "2026-11-13"
+   },
+   "booking_lead_time": {
+    "value": "Recommend booking 6 to 12 months before the wedding, especially May through October; they have done weddings with three weeks' notice.",
+    "source": "https://adorenyc.com/pages/wedding-events",
+    "checked": "2026-11-13"
+   },
+   "contact_methods": {
+    "value": [
+     "phone",
+     "email"
+    ],
+    "source": "https://adorenyc.com/pages/wedding-events",
+    "checked": "2026-11-13"
+   },
+   "delivery_setup": {
+    "value": true,
+    "source": "https://adorenyc.com/pages/wedding-events",
+    "checked": "2026-11-13"
+   },
+   "does_private_events": {
+    "value": true,
+    "source": "https://adorenyc.com/",
+    "checked": "2026-11-13"
+   },
+   "event_types": {
+    "value": [
+     "weddings",
+     "other-private"
+    ],
+    "source": "https://adorenyc.com/pages/wedding-events",
+    "checked": "2026-11-13"
+   },
+   "services": {
+    "value": [
+     "wedding floral design",
+     "bridal party florals",
+     "event floral design",
+     "corporate accounts",
+     "editorial floral styling",
+     "flower orders and delivery"
+    ],
+    "source": "https://adorenyc.com/pages/our-services",
+    "checked": "2026-11-13"
+   },
+   "starting_price": {
+    "value": {
+     "amount": 2500,
+     "per": "event",
+     "note": "wedding floral packages start at approximately $2,500"
+    },
+    "source": "https://adorenyc.com/pages/wedding-events",
+    "checked": "2026-11-13"
+   },
+   "typical_price_range": {
+    "value": {
+     "min": 3000,
+     "max": 8000,
+     "per": "event",
+     "note": "most couples invest in this range for wedding florals, depending on size and scope"
+    },
+    "source": "https://adorenyc.com/pages/wedding-events",
+    "checked": "2026-11-13"
+   }
+  }
+ },
+ {
+  "name": "Example Florist Two",
+  "url": "https://index.therunup.ai/vendors/example-florist-two/",
+  "website": "https://example-florist-two.example/",
+  "category": "florists",
+  "areas": [
+   "bronx",
+   "brooklyn",
+   "central-jersey",
+   "manhattan",
+   "north-jersey",
+   "queens",
+   "staten-island"
+  ],
+  "price_from_usd": 460.0,
+  "score": 45,
+  "checked": "2026-11-13",
+  "facts": {
+   "areas_served": {
+    "value": [
+     "NYC",
+     "NJ"
+    ],
+    "source": "https://example-florist-two.example/",
+    "checked": "2026-11-09"
+   },
+   "contact_methods": {
+    "value": [
+     "phone",
+     "text"
+    ],
+    "source": "https://example-florist-two.example/collections/wedding",
+    "checked": "2026-11-13"
+   },
+   "does_private_events": {
+    "value": true,
+    "source": "https://example-florist-two.example/collections/weddings-events",
+    "checked": "2026-11-13"
+   },
+   "event_types": {
+    "value": [
+     "corporate",
+     "other-private"
+    ],
+    "source": "https://example-florist-two.example/collections/weddings-events",
+    "checked": "2026-11-13"
+   },
+   "packages": {
+    "value": [
+     {
+      "name": "Wedding Set No. 2",
+      "price": 1500,
+      "per": "event",
+      "includes": "from price; contents not listed"
+     },
+     {
+      "name": "Wedding Set No. 6",
+      "price": 460,
+      "per": "event",
+      "includes": "from price; contents not listed"
+     }
+    ],
+    "source": "https://example-florist-two.example/collections/weddings-events",
+    "checked": "2026-11-13"
+   },
+   "quote_request_form": {
+    "value": true,
+    "source": "https://example-florist-two.example/collections/weddings-events",
+    "checked": "2026-11-13"
+   },
+   "services": {
+    "value": [
+     "same-day flower delivery",
+     "bridal bouquets",
+     "floral arches",
+     "event centerpieces"
+    ],
+    "source": "https://example-florist-two.example/collections/wedding",
+    "checked": "2026-11-13"
+   }
+  }
+ },
+ {
+  "name": "Example Florist One",
+  "url": "https://index.therunup.ai/vendors/example-florist-one/",
+  "website": "https://example-florist-one.example/",
+  "category": "florists",
+  "areas": [
+   "central-jersey",
+   "north-jersey"
+  ],
+  "price_from_usd": null,
+  "score": 13,
+  "checked": "2026-11-08",
+  "facts": {
+   "areas_served": {
+    "value": [
+     "Clark, NJ",
+     "surrounding areas"
+    ],
+    "source": "https://example-florist-one.example/",
+    "checked": "2026-11-08"
+   },
+   "contact_methods": {
+    "value": [
+     "phone"
+    ],
+    "source": "https://example-florist-one.example/",
+    "checked": "2026-11-08"
+   },
+   "does_private_events": {
+    "value": true,
+    "source": "https://example-florist-one.example/",
+    "checked": "2026-11-08"
+   },
+   "event_types": {
+    "value": [
+     "weddings"
+    ],
+    "source": "https://example-florist-one.example/store/wedding/",
+    "checked": "2026-11-08"
+   },
+   "services": {
+    "value": [
+     "flower delivery",
+     "custom event flower designs",
+     "wedding bouquets and centerpieces"
+    ],
+    "source": "https://example-florist-one.example/",
+    "checked": "2026-11-08"
+   }
+  }
+ },
+ {
+  "name": "3 Cheers Team Events",
+  "url": "https://index.therunup.ai/vendors/3-cheers-team-events/",
+  "website": "https://3cheersevents.com/",
+  "category": "planners",
+  "areas": [
+   "bronx",
+   "brooklyn",
+   "manhattan",
+   "queens",
+   "staten-island"
+  ],
+  "price_from_usd": null,
+  "score": 43,
+  "checked": "2026-11-13",
+  "facts": {
+   "areas_served": {
+    "value": [
+     "New York City"
+    ],
+    "source": "https://3cheersevents.com/",
+    "checked": "2026-11-13"
+   },
+   "contact_methods": {
+    "value": [
+     "form",
+     "email",
+     "phone",
+     "booking_link"
+    ],
+    "source": "https://3cheersevents.com/",
+    "checked": "2026-11-13"
+   },
+   "event_types": {
+    "value": [
+     "corporate"
+    ],
+    "source": "https://3cheersevents.com/",
+    "checked": "2026-11-13"
+   },
+   "online_booking": {
+    "value": true,
+    "source": "https://3cheersevents.com/",
+    "checked": "2026-11-13"
+   },
+   "quote_request_form": {
+    "value": true,
+    "source": "https://3cheersevents.com/",
+    "checked": "2026-11-13"
+   },
+   "services": {
+    "value": [
+     "culinary team building events",
+     "wellness experiences",
+     "individual and team consulting",
+     "roundtables",
+     "lunch and learn workshops",
+     "virtual classes",
+     "team retreats"
+    ],
+    "source": "https://3cheersevents.com/",
+    "checked": "2026-11-13"
+   }
+  }
+ }
+]

@@ -1,0 +1,22 @@
+[project]
+name = "agent-bookability-index-mcp"
+version = "0.3.11"
+description = "Read-only MCP server for the Agent Bookability Index: New York event vendors' published prices, with sources"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.13"
+dependencies = ["httpx>=0.27", "mcp>=1.10"]
+
+[project.urls]
+Homepage = "https://index.therunup.ai/agents/"
+Data = "https://github.com/therunup/nyc-event-vendor-index"
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

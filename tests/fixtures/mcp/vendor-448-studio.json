@@ -1,0 +1,98 @@
+{
+ "path": "/vendors/448-studio/",
+ "title": "448 Studio prices: from $2,500. Photographer in New York City, how to book",
+ "updated": "2026-11-13",
+ "name": "448 Studio",
+ "url": "https://index.therunup.ai/vendors/448-studio/",
+ "website": "https://www.448studio.com/",
+ "category": "photographers",
+ "areas": [
+  "bronx",
+  "brooklyn",
+  "central-jersey",
+  "long-island",
+  "manhattan",
+  "north-jersey",
+  "queens",
+  "staten-island",
+  "westchester"
+ ],
+ "price_from_usd": 2500.0,
+ "score": 38,
+ "checked": "2026-11-13",
+ "facts": {
+  "areas_served": {
+   "value": [
+    "New York City",
+    "nationwide",
+    "worldwide"
+   ],
+   "source": "https://www.448studio.com/",
+   "quote": "Based in New York City, capturing weddings throughout the U.S. and worldwide",
+   "checked": "2026-11-13"
+  },
+  "contact_methods": {
+   "value": [
+    "form",
+    "email",
+    "phone"
+   ],
+   "source": "https://www.448studio.com/contact",
+   "quote": "Email: [email]\nPhone: [phone]",
+   "checked": "2026-11-13"
+  },
+  "delivery_time": {
+   "value": "Sneak peek within a few weeks; final photos, online gallery and album typically up to 8 weeks.",
+   "source": "https://www.448studio.com/pricingfaq",
+   "quote": "It typically takes me up to 8 weeks to perfect your photos, create an online gallery, and design your album",
+   "checked": "2026-11-13"
+  },
+  "deposit": {
+   "value": "50% retainer fee required at booking to reserve the date, paid via Zelle.",
+   "source": "https://www.448studio.com/pricingfaq",
+   "quote": "a 50% retainer fee (paid via Zelle) will officially reserve your date",
+   "checked": "2026-11-13"
+  },
+  "does_private_events": {
+   "value": true,
+   "source": "https://www.448studio.com/pricingfaq",
+   "quote": "I provide wedding photography and videography coverage for ceremonies, receptions, and elopements.",
+   "checked": "2026-11-13"
+  },
+  "event_types": {
+   "value": [
+    "weddings"
+   ],
+   "source": "https://www.448studio.com/pricingfaq",
+   "quote": "I provide wedding photography and videography coverage for ceremonies, receptions, and elopements.",
+   "checked": "2026-11-13"
+  },
+  "quote_request_form": {
+   "value": true,
+   "source": "https://www.448studio.com/contact",
+   "quote": "Please fill out the contact form below.",
+   "checked": "2026-11-13"
+  },
+  "services": {
+   "value": [
+    "wedding photography",
+    "wedding videography",
+    "combined photo and video coverage",
+    "engagement photography"
+   ],
+   "source": "https://www.448studio.com/pricingfaq",
+   "quote": "I offer both photography and videography services to capture your special moments.",
+   "checked": "2026-11-13"
+  },
+  "starting_price": {
+   "value": {
+    "amount": 2500,
+    "per": "event",
+    "note": "wedding photography or videography coverage"
+   },
+   "source": "https://www.448studio.com/pricingfaq",
+   "quote": "Wedding photography or videography coverage starts at\n$2,500",
+   "checked": "2026-11-13"
+  }
+ }
+}

@@ -1,0 +1,518 @@
+{
+ "answer": "The median starting price New York area event vendors publish for a whole event is $3,000 for photographers, $2,000 for DJs, $600 for photo booths, $2,500 for florists, $2,500 for videographers, $200 for caterers, $600 for planners and coordinators and $3,350 for live bands (488 vendors' own published prices, November 2026).",
+ "path": "/prices/",
+ "title": "NYC Event Price Index: what event vendors charge (November 2026)",
+ "updated": "2026-11-13",
+ "sample_vendors": 488,
+ "unit": "starting price for a whole event, USD",
+ "by_category": [
+  {
+   "category": "Photographers",
+   "key": "photographers",
+   "path": "/nyc/photographers/",
+   "vendors": 294,
+   "low_quartile": 1880,
+   "median": 3000,
+   "high_quartile": 5000
+  },
+  {
+   "category": "Caterers",
+   "key": "caterers",
+   "path": "/nyc/caterers/",
+   "vendors": 15,
+   "low_quartile": 150,
+   "median": 200,
+   "high_quartile": 1980
+  },
+  {
+   "category": "Florists",
+   "key": "florists",
+   "path": "/nyc/florists/",
+   "vendors": 25,
+   "low_quartile": 660,
+   "median": 2500,
+   "high_quartile": 7000
+  },
+  {
+   "category": "Planners and coordinators",
+   "key": "planners",
+   "path": "/nyc/planners/",
+   "vendors": 15,
+   "low_quartile": 300,
+   "median": 600,
+   "high_quartile": 2900
+  },
+  {
+   "category": "DJs",
+   "key": "djs",
+   "path": "/nyc/djs/",
+   "vendors": 74,
+   "low_quartile": 1200,
+   "median": 2000,
+   "high_quartile": 2600
+  },
+  {
+   "category": "Videographers",
+   "key": "videographers",
+   "path": "/nyc/videographers/",
+   "vendors": 25,
+   "low_quartile": 1400,
+   "median": 2500,
+   "high_quartile": 5000
+  },
+  {
+   "category": "Live bands",
+   "key": "bands",
+   "path": "/nyc/bands/",
+   "vendors": 10,
+   "low_quartile": 1740,
+   "median": 3350,
+   "high_quartile": 9500
+  },
+  {
+   "category": "Photo booths",
+   "key": "photo-booths",
+   "path": "/nyc/photo-booths/",
+   "vendors": 30,
+   "low_quartile": 450,
+   "median": 600,
+   "high_quartile": 820
+  }
+ ],
+ "by_area": [
+  {
+   "category": "Photographers",
+   "area": "Manhattan",
+   "vendors": 160,
+   "low_quartile": 2500,
+   "median": 3620,
+   "high_quartile": 6000
+  },
+  {
+   "category": "Photographers",
+   "area": "Brooklyn",
+   "vendors": 152,
+   "low_quartile": 2500,
+   "median": 3720,
+   "high_quartile": 6000
+  },
+  {
+   "category": "Photographers",
+   "area": "Queens",
+   "vendors": 150,
+   "low_quartile": 2500,
+   "median": 3620,
+   "high_quartile": 6000
+  },
+  {
+   "category": "Photographers",
+   "area": "The Bronx",
+   "vendors": 144,
+   "low_quartile": 2500,
+   "median": 3800,
+   "high_quartile": 6150
+  },
+  {
+   "category": "Photographers",
+   "area": "Staten Island",
+   "vendors": 145,
+   "low_quartile": 2500,
+   "median": 3650,
+   "high_quartile": 6000
+  },
+  {
+   "category": "Photographers",
+   "area": "Long Island",
+   "vendors": 107,
+   "low_quartile": 2000,
+   "median": 3500,
+   "high_quartile": 6000
+  },
+  {
+   "category": "Photographers",
+   "area": "Westchester",
+   "vendors": 80,
+   "low_quartile": 2540,
+   "median": 3850,
+   "high_quartile": 6800
+  },
+  {
+   "category": "Photographers",
+   "area": "North Jersey",
+   "vendors": 187,
+   "low_quartile": 2000,
+   "median": 3300,
+   "high_quartile": 5300
+  },
+  {
+   "category": "Photographers",
+   "area": "Central Jersey",
+   "vendors": 182,
+   "low_quartile": 2270,
+   "median": 3470,
+   "high_quartile": 5460
+  },
+  {
+   "category": "Florists",
+   "area": "Manhattan",
+   "vendors": 14,
+   "low_quartile": 610,
+   "median": 2750,
+   "high_quartile": 7000
+  },
+  {
+   "category": "Florists",
+   "area": "Brooklyn",
+   "vendors": 15,
+   "low_quartile": 500,
+   "median": 2500,
+   "high_quartile": 7000
+  },
+  {
+   "category": "Florists",
+   "area": "Queens",
+   "vendors": 13,
+   "low_quartile": 1080,
+   "median": 3000,
+   "high_quartile": 7000
+  },
+  {
+   "category": "Florists",
+   "area": "The Bronx",
+   "vendors": 12,
+   "low_quartile": 860,
+   "median": 3250,
+   "high_quartile": 7000
+  },
+  {
+   "category": "Florists",
+   "area": "Staten Island",
+   "vendors": 11,
+   "low_quartile": 650,
+   "median": 3000,
+   "high_quartile": 7000
+  },
+  {
+   "category": "Florists",
+   "area": "North Jersey",
+   "vendors": 8,
+   "low_quartile": 1500,
+   "median": 6000,
+   "high_quartile": 7750
+  },
+  {
+   "category": "Florists",
+   "area": "Central Jersey",
+   "vendors": 9,
+   "low_quartile": 730,
+   "median": 3000,
+   "high_quartile": 7000
+  },
+  {
+   "category": "Planners and coordinators",
+   "area": "Manhattan",
+   "vendors": 11,
+   "low_quartile": 440,
+   "median": 700,
+   "high_quartile": 3800
+  },
+  {
+   "category": "Planners and coordinators",
+   "area": "Brooklyn",
+   "vendors": 11,
+   "low_quartile": 600,
+   "median": 1050,
+   "high_quartile": 3800
+  },
+  {
+   "category": "Planners and coordinators",
+   "area": "Queens",
+   "vendors": 9,
+   "low_quartile": 600,
+   "median": 1050,
+   "high_quartile": 3900
+  },
+  {
+   "category": "Planners and coordinators",
+   "area": "The Bronx",
+   "vendors": 9,
+   "low_quartile": 600,
+   "median": 1050,
+   "high_quartile": 3900
+  },
+  {
+   "category": "Planners and coordinators",
+   "area": "Staten Island",
+   "vendors": 9,
+   "low_quartile": 600,
+   "median": 1050,
+   "high_quartile": 3900
+  },
+  {
+   "category": "Planners and coordinators",
+   "area": "North Jersey",
+   "vendors": 9,
+   "low_quartile": 280,
+   "median": 700,
+   "high_quartile": 3350
+  },
+  {
+   "category": "Planners and coordinators",
+   "area": "Central Jersey",
+   "vendors": 9,
+   "low_quartile": 280,
+   "median": 700,
+   "high_quartile": 3350
+  },
+  {
+   "category": "DJs",
+   "area": "Manhattan",
+   "vendors": 34,
+   "low_quartile": 1200,
+   "median": 2150,
+   "high_quartile": 3000
+  },
+  {
+   "category": "DJs",
+   "area": "Brooklyn",
+   "vendors": 32,
+   "low_quartile": 1200,
+   "median": 2150,
+   "high_quartile": 3000
+  },
+  {
+   "category": "DJs",
+   "area": "Queens",
+   "vendors": 32,
+   "low_quartile": 1200,
+   "median": 2050,
+   "high_quartile": 2900
+  },
+  {
+   "category": "DJs",
+   "area": "The Bronx",
+   "vendors": 32,
+   "low_quartile": 1200,
+   "median": 2150,
+   "high_quartile": 2900
+  },
+  {
+   "category": "DJs",
+   "area": "Staten Island",
+   "vendors": 31,
+   "low_quartile": 1200,
+   "median": 2100,
+   "high_quartile": 3000
+  },
+  {
+   "category": "DJs",
+   "area": "Long Island",
+   "vendors": 37,
+   "low_quartile": 1200,
+   "median": 2000,
+   "high_quartile": 2800
+  },
+  {
+   "category": "DJs",
+   "area": "Westchester",
+   "vendors": 27,
+   "low_quartile": 1200,
+   "median": 2300,
+   "high_quartile": 3000
+  },
+  {
+   "category": "DJs",
+   "area": "North Jersey",
+   "vendors": 57,
+   "low_quartile": 1280,
+   "median": 2000,
+   "high_quartile": 3000
+  },
+  {
+   "category": "DJs",
+   "area": "Central Jersey",
+   "vendors": 50,
+   "low_quartile": 1290,
+   "median": 2250,
+   "high_quartile": 3000
+  },
+  {
+   "category": "Videographers",
+   "area": "Manhattan",
+   "vendors": 16,
+   "low_quartile": 1850,
+   "median": 3500,
+   "high_quartile": 5000
+  },
+  {
+   "category": "Videographers",
+   "area": "Brooklyn",
+   "vendors": 16,
+   "low_quartile": 2000,
+   "median": 3500,
+   "high_quartile": 5000
+  },
+  {
+   "category": "Videographers",
+   "area": "Queens",
+   "vendors": 15,
+   "low_quartile": 2000,
+   "median": 4500,
+   "high_quartile": 5000
+  },
+  {
+   "category": "Videographers",
+   "area": "The Bronx",
+   "vendors": 15,
+   "low_quartile": 2000,
+   "median": 4500,
+   "high_quartile": 5000
+  },
+  {
+   "category": "Videographers",
+   "area": "Staten Island",
+   "vendors": 15,
+   "low_quartile": 2000,
+   "median": 4500,
+   "high_quartile": 5000
+  },
+  {
+   "category": "Videographers",
+   "area": "Long Island",
+   "vendors": 14,
+   "low_quartile": 1720,
+   "median": 2450,
+   "high_quartile": 5120
+  },
+  {
+   "category": "Videographers",
+   "area": "Westchester",
+   "vendors": 8,
+   "low_quartile": 1420,
+   "median": 2100,
+   "high_quartile": 2480
+  },
+  {
+   "category": "Videographers",
+   "area": "North Jersey",
+   "vendors": 17,
+   "low_quartile": 1150,
+   "median": 2200,
+   "high_quartile": 4900
+  },
+  {
+   "category": "Videographers",
+   "area": "Central Jersey",
+   "vendors": 16,
+   "low_quartile": 1220,
+   "median": 2300,
+   "high_quartile": 4950
+  },
+  {
+   "category": "Live bands",
+   "area": "Manhattan",
+   "vendors": 9,
+   "low_quartile": 1690,
+   "median": 3200,
+   "high_quartile": 10000
+  },
+  {
+   "category": "Photo booths",
+   "area": "Manhattan",
+   "vendors": 17,
+   "low_quartile": 520,
+   "median": 600,
+   "high_quartile": 940
+  },
+  {
+   "category": "Photo booths",
+   "area": "Brooklyn",
+   "vendors": 18,
+   "low_quartile": 490,
+   "median": 600,
+   "high_quartile": 920
+  },
+  {
+   "category": "Photo booths",
+   "area": "Queens",
+   "vendors": 18,
+   "low_quartile": 490,
+   "median": 600,
+   "high_quartile": 920
+  },
+  {
+   "category": "Photo booths",
+   "area": "The Bronx",
+   "vendors": 18,
+   "low_quartile": 490,
+   "median": 600,
+   "high_quartile": 920
+  },
+  {
+   "category": "Photo booths",
+   "area": "Staten Island",
+   "vendors": 17,
+   "low_quartile": 520,
+   "median": 600,
+   "high_quartile": 940
+  },
+  {
+   "category": "Photo booths",
+   "area": "Long Island",
+   "vendors": 16,
+   "low_quartile": 560,
+   "median": 680,
+   "high_quartile": 970
+  },
+  {
+   "category": "Photo booths",
+   "area": "Westchester",
+   "vendors": 11,
+   "low_quartile": 450,
+   "median": 700,
+   "high_quartile": 1000
+  },
+  {
+   "category": "Photo booths",
+   "area": "North Jersey",
+   "vendors": 23,
+   "low_quartile": 450,
+   "median": 600,
+   "high_quartile": 900
+  },
+  {
+   "category": "Photo booths",
+   "area": "Central Jersey",
+   "vendors": 22,
+   "low_quartile": 450,
+   "median": 680,
+   "high_quartile": 960
+  }
+ ],
+ "per_unit": [
+  {
+   "category": "Photographers",
+   "unit": "per hour",
+   "vendors": 56,
+   "low_quartile": 200,
+   "median": 360,
+   "high_quartile": 450
+  },
+  {
+   "category": "Caterers",
+   "unit": "per guest",
+   "vendors": 52,
+   "low_quartile": 20,
+   "median": 30,
+   "high_quartile": 50
+  },
+  {
+   "category": "Photo booths",
+   "unit": "per hour",
+   "vendors": 8,
+   "low_quartile": 100,
+   "median": 140,
+   "high_quartile": 200
+  }
+ ]
+}
