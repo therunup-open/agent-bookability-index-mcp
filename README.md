@@ -39,7 +39,7 @@ uv run pytest -q                              # tests, from recorded copies of t
 
 ## The data
 
-Prices by service and area: [NYC Event Price Index](https://index.therunup.ai/prices/), with a page per service such as [what a caterer costs per guest](https://index.therunup.ai/cost/caterer-per-guest/) or [what a wedding DJ costs in NYC](https://index.therunup.ai/cost/wedding-dj/nyc/). The open data (CC BY 4.0): [GitHub](https://github.com/therunup/nyc-event-vendor-index), [Hugging Face](https://huggingface.co/datasets/therunup/nyc-event-vendor-index), [Zenodo](https://doi.org/10.5281/zenodo.24274058). Method: https://index.therunup.ai/method/ .
+Prices by service and area: [NYC Event Price Index](https://index.therunup.ai/prices/), with a page per service such as [what a caterer costs per guest](https://index.therunup.ai/cost/caterer-per-guest/) or [what a wedding DJ costs in NYC](https://index.therunup.ai/cost/wedding-dj/nyc/). The open data (CC BY 4.0): [GitHub](https://github.com/therunup/nyc-event-vendor-index), [Hugging Face](https://huggingface.co/datasets/therunup/nyc-event-vendor-index), [Zenodo](https://doi.org/10.5281/zenodo.24274057). Method: https://index.therunup.ai/method/ .
 
 ## Logging, licence and corrections
 
